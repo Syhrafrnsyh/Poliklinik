@@ -113,6 +113,7 @@
                             <li>Friday <span>8.00 - 18.30</span></li>
                             <li>Saturday <span>9.30 - 17.00</span></li>
                             <li>Sunday <span>9.30 - 15.00</span></li>
+			    <li><span></span></li>
                         </ul>
                     </div>
                 </div>
